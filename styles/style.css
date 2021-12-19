@@ -1,0 +1,18 @@
+html {
+	background-color: black
+}
+p {
+	color: green;
+}
+aside {
+	size: 80%;
+	padding-left: .5rem;
+	margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px green;
+    font-style: italic;
+	color: green;
+}
+link {
+	color: green;
+	}}
