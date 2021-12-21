@@ -6,9 +6,7 @@ p {
 }
 body {
 	background-color: gray;
-	border: 1px;
-	border-color: green
-	;
+	border: 5px solid green;
 }
 aside {
 	size: 80%;
@@ -21,4 +19,4 @@ aside {
 }
 link {
 	color: green;
-	}}
+	 }
