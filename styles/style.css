@@ -5,13 +5,13 @@ html {
 body{
 	margin:0;
 	background-color: black;
+	padding-bottom:501px; 
 }
 head{
 	background-color: black;
 }
 p {
 	color: green;
-	opacity: 60;
 }
 article {
 	margin-top: 70px;
@@ -23,10 +23,8 @@ aside {
 	padding-left: .5rem;
 	margin-right: 10px;
     float: right;
-    box-shadow: inset 0px 1px 10px 0px black;
     font-style: italic;
 	color: green;
-	opacity: 60;
 }
 link {
 	color: green;
