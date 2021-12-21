@@ -4,6 +4,12 @@ html {
 p {
 	color: green;
 }
+body {
+	background-color: gray;
+	border: 1px;
+	border-color: green
+	;
+}
 aside {
 	size: 80%;
 	padding-left: .5rem;
