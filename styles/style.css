@@ -1,21 +1,32 @@
 html {
-	background-color: black
+	background-image: url(scanlines.png);
+	opacity: 0.85;
+}
+body{
+	margin:0;
+	background-color: black;
+}
+head{
+	background-color: black;
 }
 p {
 	color: green;
+	opacity: 60;
 }
-body {
-	background-color: gray;
-	border: 5px solid green;
+article {
+	margin-top: 70px;
+	background:black;
 }
 aside {
+	background-color: black;
 	size: 80%;
 	padding-left: .5rem;
-	margin-left: .5rem;
+	margin-right: 10px;
     float: right;
-    box-shadow: inset 5px 0 5px -5px green;
+    box-shadow: inset 0px 1px 10px 0px black;
     font-style: italic;
 	color: green;
+	opacity: 60;
 }
 link {
 	color: green;
